@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/django.png"
+    },
+    {
+        "name": "Django REST Framework",
+        "icon": "https://img.icons8.com/nolan/64/api.png"
+    },
+    {
+        "name": "Celery",
+        "icon": "https://img.icons8.com/color/48/celery.png"
+    },
+    {
+        "name": "RabbitMQ",
+        "icon": "https://img.icons8.com/color/48/rabbitmq.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "https://img.icons8.com/color/48/redis.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/postgresql.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/mysql-logo.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "Amazon Web Services",
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
+        "name": "Nginx",
+        "icon": "https://img.icons8.com/color/48/nginx.png"
+    },
+    {
+        "name": "GitHub Actions",
+        "icon": "https://img.icons8.com/color/48/github--v1.png"
+    },
+    {
+        "name": "GitLab CI/CD",
+        "icon": "https://img.icons8.com/color/48/gitlab.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/dusk/64/postman-api.png"
+    },
+    {
+        "name": "React.js",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-javascript-tal-revivo.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/javascript--v1.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/css3.png"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/color/48/tailwindcss.png"
+    }
+]
